@@ -5,7 +5,7 @@ public class Small
 public static void main()
 {
 int p,s,x,i,count=0;
-Scanner sc=new Scanner(System.in)
+Scanner sc=new Scanner(System.in);
 p=sc.nextInt();
 s=sc.nextInt();
 for(i=0;i<p;i++)
